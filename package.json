@@ -1,11 +1,14 @@
 {
   "name": "uber-next",
+  "homepage": "https://kashyap0312.github.io/uber-next01",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "next lint"
+    "lint": "next lint",
+    "export": "next-export"
+
   },
   "dependencies": {
     "firebase": "^9.4.1",
